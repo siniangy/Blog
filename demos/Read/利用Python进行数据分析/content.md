@@ -4,7 +4,7 @@
 
 ### 2：Python语言基础、IPython及jupyter notebook
 
-安装annaconda后进入bin目录，bin/jupyter-notebook启动jupyter，这里注意安装annaconda后需要source ~/.bash_profile
+安装annaconda后进入bin所在目录，bin/jupyter-notebook启动jupyter，这里注意安装annaconda后需要source ~/.bash_profile
 
 jupyter-notebook基本操作这里不赘述了
 
