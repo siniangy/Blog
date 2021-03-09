@@ -8,3 +8,11 @@
 
 jupyter-notebook基本操作这里不赘述了
 
+Python语言基础，这里值得注意的是赋值操作，两个引用会指向同一个对象，类似JS的对象，这里也不赘述，可见jupyter-notebook的chapter2
+
+### 3：内建数据结构、函数及文件
+
+具体可见jupyter-notebook的chapter3
+
+### 4：Numpy基础：数组与向量化计算
+
